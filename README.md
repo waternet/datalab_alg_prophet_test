@@ -26,4 +26,4 @@ The algorithms will do the following
 
 The script will plot a graph showing the measured and predicted (including upper and lower boundaries) values which can be used to see if fbprophet works ok and to finetune the parameters.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/waternet/datalab_alg_prophet_test/blob/master/img/sample_output.png)
