@@ -21,8 +21,9 @@ The algorithms will do the following
 * add the predictions to the result
 * t increases with 5 (the amount of lookahead periods)
 * make a prediction model based on all measurements until current t (105)
-* repeat until we have handled the entire data
+* add the predictions to the result
+* .... (repeat until we have handled the entire data)
 
 The script will plot a graph showing the measured and predicted (including upper and lower boundaries) values which can be used to see if fbprophet works ok and to finetune the parameters.
 
-
+![alt text](http://url/to/img.png)
